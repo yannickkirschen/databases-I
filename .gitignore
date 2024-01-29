@@ -1,0 +1,5 @@
+.DS_Store
+DB1/
+.settings
+.idea/
+*.iml
